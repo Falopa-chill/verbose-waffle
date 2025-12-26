@@ -1,0 +1,17 @@
+{
+	id: "6ae398c7-7d9b-380a-89d2-b1c2ad9a2744"
+	type: "player"
+	player_name: "Falopa_chill"
+	ranks: {
+		6ae398c7-7d9b-380a-89d2-b1c2ad9a2744: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Falopa_chill"
+		"ftbteams:description": ""
+		"ftbteams:color": "#84FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "36a89b99-6305-3e50-88ad-0cd5635c69cd"
+	type: "player"
+	player_name: "Matias_na"
+	ranks: {
+		36a89b99-6305-3e50-88ad-0cd5635c69cd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Matias_na"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A9FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
