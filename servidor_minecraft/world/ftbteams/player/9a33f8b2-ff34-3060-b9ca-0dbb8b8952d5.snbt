@@ -1,0 +1,17 @@
+{
+	id: "9a33f8b2-ff34-3060-b9ca-0dbb8b8952d5"
+	type: "player"
+	player_name: "Gos009"
+	ranks: {
+		9a33f8b2-ff34-3060-b9ca-0dbb8b8952d5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Gos009"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
